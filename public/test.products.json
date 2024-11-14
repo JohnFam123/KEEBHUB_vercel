@@ -1,0 +1,253 @@
+[{
+  "_id": {
+    "$oid": "673615e421efe2a005c6500b"
+  },
+  "name": "Classic Pants",
+  "slug": "classic-pants",
+  "category": "Pants",
+  "image": "/images/pants3.jpg",
+  "price": 75000,
+  "brand": "Casely",
+  "rating": 2.4,
+  "numReviews": 14,
+  "countInStock": 20,
+  "description": "A popular pants",
+  "isFeatured": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-11-14T15:23:16.101Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-14T15:54:23.042Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6736038cde13cf93416d9355"
+  },
+  "name": "Cherry Hyperglide Black",
+  "slug": "Hyperglide_Black",
+  "category": "Switches",
+  "image": "https://i.ibb.co/XYZ12345/hyperglide-black.jpg",
+  "price": 75000,
+  "brand": "Cherry",
+  "rating": 4,
+  "numReviews": 12,
+  "countInStock": 150,
+  "description": "Cherry MX Black Hyperglide Linear Switch\n1 item = 10 switches\n• Switch Type - Linear\n• Manufacturer - Cherry\n• Top Housing Material - Nylon Cherry\n• Bottom Housing Material - Nylon Cherry\n• Stem Material - Proprietary thermoplastic\n• Spring Weight - 60g\n• Mounting Pins - 5-pin\n• Factory Lube - No",
+  "isFeatured": false,
+  "createdAt": {
+    "$date": "2024-11-14T14:06:40.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-14T14:24:31.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6736038cde13cf93416d9356"
+  },
+  "name": "Gateron Milky Yellow Pro",
+  "slug": "Milky_Yellow_Pro",
+  "category": "Switches",
+  "image": "https://i.ibb.co/XYZ12346/milky-yellow.jpg",
+  "price": 50000,
+  "brand": "Gateron",
+  "rating": 5,
+  "numReviews": 34,
+  "countInStock": 200,
+  "description": "Gateron Milky Yellow Pro Linear Switch\n1 item = 10 switches\n• Switch Type - Linear\n• Manufacturer - Gateron\n• Top Housing Material - Nylon\n• Bottom Housing Material - Nylon\n• Stem Material - POM\n• Spring Weight - 50g\n• Mounting Pins - 5-pin\n• Factory Lube - Yes",
+  "isFeatured": true,
+  "createdAt": {
+    "$date": "2024-11-14T14:08:20.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-14T14:24:31.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6736038cde13cf93416d9357"
+  },
+  "name": "Kailh Box White",
+  "slug": "Box_White",
+  "category": "Switches",
+  "image": "https://i.ibb.co/XYZ12347/box-white.jpg",
+  "price": 60000,
+  "brand": "Kailh",
+  "rating": 4,
+  "numReviews": 45,
+  "countInStock": 80,
+  "description": "Kailh Box White Clicky Switch\n1 item = 10 switches\n• Switch Type - Clicky\n• Manufacturer - Kailh\n• Top Housing Material - Polycarbonate\n• Bottom Housing Material - Nylon\n• Stem Material - POM\n• Spring Weight - 55g\n• Mounting Pins - 3-pin\n• Factory Lube - No",
+  "isFeatured": false,
+  "createdAt": {
+    "$date": "2024-11-14T14:10:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-14T14:24:31.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6736038cde13cf93416d9358"
+  },
+  "name": "NovelKeys Cream",
+  "slug": "NK_Cream",
+  "category": "Switches",
+  "image": "https://i.ibb.co/XYZ12348/nk-cream.jpg",
+  "price": 80000,
+  "brand": "NovelKeys",
+  "rating": 5,
+  "numReviews": 22,
+  "countInStock": 50,
+  "description": "NovelKeys Cream Linear Switch\n1 item = 10 switches\n• Switch Type - Linear\n• Manufacturer - NovelKeys\n• Top Housing Material - POM\n• Bottom Housing Material - POM\n• Stem Material - POM\n• Spring Weight - 55g\n• Mounting Pins - 5-pin\n• Factory Lube - No",
+  "isFeatured": true,
+  "createdAt": {
+    "$date": "2024-11-14T14:11:40.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-14T14:24:31.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6736038cde13cf93416d9359"
+  },
+  "name": "Durock T1 Tactile",
+  "slug": "T1_Tactile",
+  "category": "Switches",
+  "image": "https://i.ibb.co/XYZ12349/durock-t1.jpg",
+  "price": 85000,
+  "brand": "Durock",
+  "rating": 5,
+  "numReviews": 15,
+  "countInStock": 120,
+  "description": "Durock T1 Tactile Switch\n1 item = 10 switches\n• Switch Type - Tactile\n• Manufacturer - Durock\n• Top Housing Material - Polycarbonate\n• Bottom Housing Material - Nylon\n• Stem Material - POM\n• Spring Weight - 67g\n• Mounting Pins - 5-pin\n• Factory Lube - Yes",
+  "isFeatured": false,
+  "createdAt": {
+    "$date": "2024-11-14T14:13:20.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-14T14:24:31.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6736038cde13cf93416d9360"
+  },
+  "name": "Cherry Hyperglide Speed Silver",
+  "slug": "Hyperglide_Speed_Silver",
+  "category": "Switches",
+  "image": "https://i.ibb.co/ABCD5678/hyperglide-speed-silver.jpg",
+  "price": 85000,
+  "brand": "Cherry",
+  "rating": 4,
+  "numReviews": 22,
+  "countInStock": 90,
+  "description": "Cherry MX Speed Silver Hyperglide Linear Switch\n1 item = 10 switches\n• Switch Type - Linear\n• Manufacturer - Cherry\n• Top Housing Material - Nylon Cherry\n• Bottom Housing Material - Nylon Cherry\n• Stem Material - Proprietary thermoplastic\n• Spring Weight - 45g\n• Mounting Pins - 5-pin\n• Factory Lube - No",
+  "isFeatured": true,
+  "createdAt": {
+    "$date": "2024-11-14T14:15:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-14T14:31:40.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6736206b2ec09018daa66d84"
+  },
+  "name": "Cherry Hyperglide Blue",
+  "slug": "Hyperglide_Blue",
+  "category": "Switches",
+  "image": "https://i.ibb.co/ABCDEFG/hyperglide-blue.jpg",
+  "price": 72000,
+  "brand": "Cherry",
+  "rating": 4,
+  "numReviews": 8,
+  "countInStock": 120,
+  "description": "Cherry MX Blue Hyperglide Clicky Switch\n1 item = 10 switches\n• Switch Type - Clicky\n• Manufacturer - Cherry\n• Top Housing Material - Nylon Cherry\n• Bottom Housing Material - Nylon Cherry\n• Stem Material - Proprietary thermoplastic\n• Spring Weight - 50g\n• Mounting Pins - 5-pin\n• Factory Lube - No",
+  "isFeatured": false,
+  "createdAt": {
+    "$date": "2024-11-14T14:08:20.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-14T14:25:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6736206b2ec09018daa66d85"
+  },
+  "name": "Cherry Hyperglide Brown",
+  "slug": "Hyperglide_Brown",
+  "category": "Switches",
+  "image": "https://i.ibb.co/HIJKLMNO/hyperglide-brown.jpg",
+  "price": 74000,
+  "brand": "Cherry",
+  "rating": 5,
+  "numReviews": 18,
+  "countInStock": 100,
+  "description": "Cherry MX Brown Hyperglide Tactile Switch\n1 item = 10 switches\n• Switch Type - Tactile\n• Manufacturer - Cherry\n• Top Housing Material - Nylon Cherry\n• Bottom Housing Material - Nylon Cherry\n• Stem Material - Proprietary thermoplastic\n• Spring Weight - 45g\n• Mounting Pins - 5-pin\n• Factory Lube - No",
+  "isFeatured": false,
+  "createdAt": {
+    "$date": "2024-11-14T14:10:00.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-14T14:26:40.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6736206b2ec09018daa66d86"
+  },
+  "name": "Cherry Hyperglide Silent Red",
+  "slug": "Hyperglide_Silent_Red",
+  "category": "Switches",
+  "image": "https://i.ibb.co/PQRSTUVX/hyperglide-silent-red.jpg",
+  "price": 80000,
+  "brand": "Cherry",
+  "rating": 5,
+  "numReviews": 24,
+  "countInStock": 80,
+  "description": "Cherry MX Silent Red Hyperglide Linear Switch\n1 item = 10 switches\n• Switch Type - Linear\n• Manufacturer - Cherry\n• Top Housing Material - Nylon Cherry\n• Bottom Housing Material - Nylon Cherry\n• Stem Material - Proprietary thermoplastic\n• Spring Weight - 35g\n• Mounting Pins - 5-pin\n• Factory Lube - Yes",
+  "isFeatured": true,
+  "createdAt": {
+    "$date": "2024-11-14T14:11:40.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-14T14:28:20.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6736206b2ec09018daa66d87"
+  },
+  "name": "Cherry Hyperglide Silent Black",
+  "slug": "Hyperglide_Silent_Black",
+  "category": "Switches",
+  "image": "https://i.ibb.co/WXYZ1234/hyperglide-silent-black.jpg",
+  "price": 82000,
+  "brand": "Cherry",
+  "rating": 4,
+  "numReviews": 10,
+  "countInStock": 75,
+  "description": "Cherry MX Silent Black Hyperglide Linear Switch\n1 item = 10 switches\n• Switch Type - Linear\n• Manufacturer - Cherry\n• Top Housing Material - Nylon Cherry\n• Bottom Housing Material - Nylon Cherry\n• Stem Material - Proprietary thermoplastic\n• Spring Weight - 55g\n• Mounting Pins - 5-pin\n• Factory Lube - Yes",
+  "isFeatured": false,
+  "createdAt": {
+    "$date": "2024-11-14T14:13:20.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-14T14:30:00.000Z"
+  },
+  "__v": 0
+}]
